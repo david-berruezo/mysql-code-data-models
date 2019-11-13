@@ -1,2 +1,2 @@
-# mysql-code-data-models
-mysql-code-data-models
+# Collection of data models in mysql source code
+# Diagram ER and source code
