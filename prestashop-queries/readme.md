@@ -1,0 +1,1 @@
+# List of prestashop queries 

@@ -1,0 +1,1 @@
+# List of wordpress queries 
